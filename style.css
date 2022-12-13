@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	background-color: #ff8400;
+	color: white;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#giraffe {
+	height: auto;
+	width: auto;
+	max-width: 900px; 
+    max-height: 900px;
+}
